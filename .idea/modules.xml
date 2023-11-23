@@ -4,7 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DCP416/DCP416.iml" filepath="$PROJECT_DIR$/DCP416/DCP416.iml" />
       <module fileurl="file://$PROJECT_DIR$/Daily Coding Problem.iml" filepath="$PROJECT_DIR$/Daily Coding Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anagramGroups/anagramGroups.iml" filepath="$PROJECT_DIR$/anagramGroups/anagramGroups.iml" />
       <module fileurl="file://$PROJECT_DIR$/gridSequenceTraverse/gridSequenceTraverse.iml" filepath="$PROJECT_DIR$/gridSequenceTraverse/gridSequenceTraverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectureRoomTimes/lectureRoomTimes.iml" filepath="$PROJECT_DIR$/lectureRoomTimes/lectureRoomTimes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/perfectNumberTen/perfectNumberTen.iml" filepath="$PROJECT_DIR$/perfectNumberTen/perfectNumberTen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uniqueStaircaseClimb/uniqueStaircaseClimb.iml" filepath="$PROJECT_DIR$/uniqueStaircaseClimb/uniqueStaircaseClimb.iml" />
     </modules>
   </component>
 </project>
