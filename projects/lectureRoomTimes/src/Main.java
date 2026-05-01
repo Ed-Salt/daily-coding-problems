@@ -19,7 +19,7 @@ public class Main {
         for (int i = 0; i < endTime; i++) {
             int count = 0;
             for (int j = 0; j < slots; j++) {
-                if (times[0][j] <= i && times[1][j] >= i) {
+                if (times[0][j] < i && times[1][j] >= i) {
                     count ++;
                 }
             }
